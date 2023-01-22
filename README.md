@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DutsAndrew
 - 👀 I’m interested in building tech 👨‍💻, espresso ☕, competitive gaming 🎮, and everything granola 🧗🚵🏕️.
-- 🌱 I’m currently learning TypeScript, React, NodeJS, and MongoDB.
+- 🌱 I’m currently learning NodeJS, Express, Mongoose, and MongoDB.
 - 💞️ I’m looking to collaborate on front-end projects.
 - 📫 How to reach me: **Email** - dutsandrew@gmail.com, **Linkedin** - [Andrew Dutson](https://www.linkedin.com/in/dutson/)
 
