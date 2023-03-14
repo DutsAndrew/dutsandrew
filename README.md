@@ -2,7 +2,7 @@
 - 👨🏻‍🏫 I'm currently working as a Science Teacher, but am actively looking for my first Software Dev gig
 - 👀 I’m interested in building tech 👨‍💻, espresso ☕, competitive gaming 🎮, and everything granola 🧗🚵🏕️.
 - 🌱 I’m currently learning NodeJS, Express, Mongoose, and MongoDB.
-- 💞️ I’m looking to collaborate on Front-End projects.
+- 💞️ I’m looking to collaborate on Full-Stack, Front-End, and Back-End projects.
 - 📫 How to reach me: **Email** - dutsandrew@gmail.com, **Linkedin** - [Andrew Dutson](https://www.linkedin.com/in/dutson/).
 - Check out My Portoflio: https://dutsandrew.github.io/personal-portfolio/.
 
