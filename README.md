@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning NodeJS, Express, Mongoose, and MongoDB.
 - 💞️ I’m looking to collaborate on Full-Stack, Front-End, and Back-End projects.
 - 📫 How to reach me: **Email** - dutsandrew@gmail.com, **Linkedin** - [Andrew Dutson](https://www.linkedin.com/in/dutson/).
-- Check out My Portoflio: https://dutsandrew.github.io/personal-portfolio/.
+- Check out my [Portoflio](https://dutsandrew.github.io/personal-portfolio/)
 
 <br>
 
