@@ -67,7 +67,9 @@
 <br>
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/a6a464ca-0606-4ba4-a686-68c9e97bbfb1.svg">
+  <a href="https://wakatime.com/@dutsandrew">
+    <img src="https://wakatime.com/badge/user/a6a464ca-0606-4ba4-a686-68c9e97bbfb1.svg">
+  </a>
 </p>
 
 <br>
