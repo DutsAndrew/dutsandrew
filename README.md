@@ -56,6 +56,12 @@
 
 <br>
 
+# <strong>GitHub Stats</strong>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DutsAndrew&hide=contribs,prs&theme=tokyonight">
+</p>
+
 <h2 align="center">
   WakaTime
 </h2>
@@ -68,17 +74,11 @@
 
 <p align="center">
   <a href="https://wakatime.com/@dutsandrew">
-    <img src="https://wakatime.com/badge/user/a6a464ca-0606-4ba4-a686-68c9e97bbfb1.svg">
+    <img width="35%" src="https://wakatime.com/badge/user/a6a464ca-0606-4ba4-a686-68c9e97bbfb1.svg">
   </a>
 </p>
 
 <br>
-
-# <strong>GitHub Stats</strong>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DutsAndrew&hide=contribs,prs&theme=tokyonight">
-</p>
 
 <!---
 DutsAndrew/DutsAndrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
