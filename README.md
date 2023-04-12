@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutsandrew&theme=radical&layout=compact"></img>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutsandrew&theme=radical&layout=compact"></img>
 </p>
 
 <br>
@@ -39,7 +39,9 @@
 </h3>
 
 <p align="center">
-  <img align="center" src="https://www.codewars.com/users/DutsAndrew/badges/large">
+  <a href="https://www.codewars.com/users/DutsAndrew">
+    <img align="center" src="https://www.codewars.com/users/DutsAndrew/badges/large">
+  </a>
 </p>
 
 <h3 align="center">
@@ -47,7 +49,9 @@
 </h3>
 
 <p align="center">
-  <img align="center" src="https://leetcode-stats-six.vercel.app/?username=MandoaOrdo&theme=dark">
+  <a href="https://leetcode.com/MandoaOrdo/">
+    <img align="center" src="https://leetcode-stats-six.vercel.app/?username=MandoaOrdo&theme=dark">
+  </a>
 </p>
 
 <br>
