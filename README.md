@@ -45,7 +45,7 @@
 </p>
 
 <h3 align="center">
-  leet Code:
+  Leet Code:
 </h3>
 
 <p align="center">
