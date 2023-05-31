@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @DutsAndrew
 - 👨🏻‍🏫 I am a Software Engineer (Full-Stack, Front-End, and Back-End)
-- 👀 I’m interested in building tech 👨‍💻, espresso ☕, competitive gaming 🎮, and everything granola 🧗🚵🏕️.
-- 🌱 I’m currently learning NodeJS, Express, Mongoose, and MongoDB.
-- 💞️ I’m looking to collaborate on Full-Stack, Front-End, and Back-End projects.
-- 📫 How to reach me: **Email** - dutsandrew@gmail.com, **Linkedin** - [Andrew Dutson](https://www.linkedin.com/in/dutson/).
-- Check out my [Portoflio](https://dutsandrew.github.io/personal-portfolio/)
+- 👀 Interested in building tech 👨‍💻, espresso ☕, competitive gaming 🎮, and everything granola 🧗🚵🏕️
+- 📚 Proficient in JavaScript, TypeScript, Node.js, MongoDB, Firebase, Git, CSS, and HTML
+- 🌱 Currently learning Java and SQL
+- 💞️ Looking to collaborate on Full-Stack, Front-End, and Back-End projects
+- 📫 Reach me at: **Email** - dutsandrew@gmail.com, **Linkedin** - [Andrew Dutson](https://www.linkedin.com/in/dutson/)
+- 🕵🏻‍♂️ Check out my [Portoflio](https://dutsandrew.github.io/personal-portfolio/)
 
 <br>
 
