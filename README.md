@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DutsAndrew
 - 👨🏻‍🏫 I am a Software Engineer (Full-Stack, Front-End, and Back-End)
 - 👀 Interested in building tech 👨‍💻, espresso ☕, competitive gaming 🎮, and everything granola 🧗🚵🏕️
-- 📚 Proficient in JavaScript, TypeScript, Node.js, MongoDB, Firebase, Git, CSS, and HTML
+- 📚 Proficient in JavaScript, React, NextJS, TypeScript, Node.js, MongoDB, Firebase, Git, CSS, and HTML
 - 🌱 Currently learning Java and SQL
 - 💞️ Looking to collaborate on Full-Stack, Front-End, and Back-End projects
 - 📫 Reach me at: **Email** - dutsandrew@gmail.com, **Linkedin** - [Andrew Dutson](https://www.linkedin.com/in/dutson/)
