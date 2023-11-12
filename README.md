@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DutsAndrew
 - 👨🏻‍🏫 I am a Software Engineer (Full-Stack, Front-End, and Back-End)
 - 👀 Interested in building tech 👨‍💻, espresso ☕, competitive gaming 🎮, and everything granola 🧗🚵🏕️
-- 📚 Proficient in JavaScript/TypeScript, React, NextJS, Node.js, MongoDB, Firebase, Git, CSS, and HTML
-- 🌱 Currently learning Python, Flask, C#, Java, and SQL
+- 📚 Proficient in JavaScript/TypeScript, Python, React, NextJS, Node.js, FastAPI, MongoDB, Firebase, Git, CSS, and HTML
+- 🌱 Currently learning Java, C#, and React-Native
 - 💞️ Looking to collaborate on Full-Stack, Front-End, and Back-End projects
 - 📫 Reach me at: **Email** - dutsandrew@gmail.com, **Linkedin** - [Andrew Dutson](https://www.linkedin.com/in/dutson/)
 - 🕵🏻‍♂️ Check out my [Portoflio](https://dutsandrew.github.io/personal-portfolio/)
@@ -29,11 +29,10 @@
 # <div>Frameworks and Libraries:</div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60px" height="auto" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60px" height="auto" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60px" height="auto" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60px" height="auto" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60px" height="auto" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60px" height="auto" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60px" height="auto" />
 </div>
 
 <br>
