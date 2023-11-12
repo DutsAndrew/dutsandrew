@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DutsAndrew
 - 👨🏻‍🏫 I am a Software Engineer (Full-Stack, Front-End, and Back-End)
-- 👀 Interested in building tech 👨‍💻, espresso ☕, competitive gaming 🎮, and everything granola 🧗🚵🏕️
+- 👀 Interested in building tech 👨‍💻, espresso and coffee roasting ☕, gaming 🎮, and everything granola 🧗🚵🏕️
 - 📚 Proficient in JavaScript/TypeScript, Python, React, NextJS, Node.js, FastAPI, MongoDB, Firebase, Git, CSS, and HTML
 - 🌱 Currently learning Java, C#, and React-Native
 - 💞️ Looking to collaborate on Full-Stack, Front-End, and Back-End projects
