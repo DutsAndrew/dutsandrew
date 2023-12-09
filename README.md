@@ -79,9 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DutsAndrew&hide=contribs,prs&theme=tokyonight">
 </p>
 
-<h2 align="center">
-  WakaTime
-</h2>
+# <div>WakaTime:</div>
 
 <p align="center">
   <a href="https://wakatime.com/badge/user/a6a464ca-0606-4ba4-a686-68c9e97bbfb1.svg">
