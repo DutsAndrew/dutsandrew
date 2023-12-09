@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutsandrew&theme=radical&layout=compact"></img>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutsandrew&theme=radical&layout=donut-vertical"></img>
 </p>
 
 <br>
@@ -73,7 +73,7 @@
 
 <br>
 
-# <div align="center">GitHub Stats:</div>
+# <div>GitHub Stats:</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DutsAndrew&hide=contribs,prs&theme=tokyonight">
@@ -82,6 +82,12 @@
 <h2 align="center">
   WakaTime
 </h2>
+
+<p align="center">
+  <a href="https://wakatime.com/badge/user/a6a464ca-0606-4ba4-a686-68c9e97bbfb1.svg">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dutsandrew&layout=compact&theme=dracula">
+  </a>
+</p>
 
 <p align="center">
   Since Sep 7, 2022:
