@@ -49,58 +49,6 @@
 
 <br>
 
-# <div>Coding Puzzle Stats:</div>
-
-<h3 align="center">
-  CodeWars
-</h3>
-
-<p align="center">
-  <a href="https://www.codewars.com/users/DutsAndrew">
-    <img align="center" src="https://www.codewars.com/users/DutsAndrew/badges/large">
-  </a>
-</p>
-
-<h3 align="center">
-  Leet Code:
-</h3>
-
-<p align="center">
-  <a href="https://leetcode.com/MandoaOrdo/">
-    <img align="center" src="https://leetcode-stats-six.vercel.app/?username=MandoaOrdo&theme=dark">
-  </a>
-</p>
-
-<br>
-
-# <div>GitHub Stats:</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DutsAndrew&hide=contribs,prs&theme=tokyonight">
-</p>
-
-# <div>WakaTime:</div>
-
-<p align="center">
-  <a href="https://wakatime.com/badge/user/a6a464ca-0606-4ba4-a686-68c9e97bbfb1.svg">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dutsandrew&layout=compact&theme=dracula">
-  </a>
-</p>
-
-<p align="center">
-  Since Sep 7, 2022:
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://wakatime.com/@dutsandrew">
-    <img width="35%" src="https://wakatime.com/badge/user/a6a464ca-0606-4ba4-a686-68c9e97bbfb1.svg">
-  </a>
-</p>
-
-<br>
-
 <!---
 DutsAndrew/DutsAndrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
